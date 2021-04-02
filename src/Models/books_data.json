@@ -1,0 +1,75 @@
+{
+    "books" : [
+        {
+            "Title": "American Dirt",
+            "Author": "Jeanine Cummins",
+            "Genre": "Fiction",
+            "Description": "This highly anticipated novel is the kind of contemporary fiction that feels pulled straight from the collective national conscience. When drug cartels threaten her family, middle-class bookseller Lydia Perez joins the exodus heading north, hoping for safety and salvation in America. A migrant story for our times, the book is already getting traction in the culture.",
+            "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1559127861l/45046527._SY475_.jpg"
+        },
+        {
+            "Title": "A Long Petal of the Sea",
+            "Author": "Isabel Allende",
+            "Genre": "Historical Fiction",
+            "Description": "Migration and exile also feature heavily in this expansion of the historical record from Isabel Allende. Violently uprooted by the Spanish Civil War, a pregnant widow is forced into a marriage of escape as she heads over the ocean to South America. Allende's story proceeds from actual events and features the famous diplomat and poet Pablo Neruda.",
+            "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1600456282l/45897568._SY475_.jpg"
+        },
+        {
+            "Title": "The Night Watchman",
+            "Author": "Louise Erdrich",
+            "Genre": "Historical Fiction",
+            "Description": "Author Louise Erdrich, hailed as one of the most significant writers of the Native American Renaissance, draws from her own family experience in her latest novel. Set in the 1950s, the book chronicles the forced dispossession from North Dakota of the Chippewa people, robbed of their rights and their lands by the U.S. government. Erdrich's grandfather is the night watchman of the title.",
+            "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1560805539l/46206688.jpg"
+        },
+        {
+            "Title": "Writers & Lovers",
+            "Author": "Lily King",
+            "Genre": "Romance",
+            "Description": "From the author of the critically acclaimed Euphoria, her new novel follows 31-year-old Casey Peabody as she struggles against the essential tyranny of traditional adulthood. Waiting tables in Harvard Square, Casey hasn't given up on her dream of the creative life—even as friends and family sink into marriage and concession and sensible careers. A novel about beginnings and endings, and points in between.",
+            "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1580227762l/52715989._SX318_SY475_.jpg"
+        },
+        {
+            "Title": "My Dark Vanessa",
+            "Author": "Kate Elizabeth Russell",
+            "Genre": "Dark",
+            "Description": "A dramatic novel for the #MeToo moment, My Dark Vanessa chronicles the relationship between a talented 15-year-old writer and her 42-year-old English teacher. In her literary debut, author Kate Elizabeth Russell moves through two timelines—Vanessa's past and present—to examine issues of adolescence, agency, consent, complicity, and victimhood.",
+            "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1583447793l/44890081._SY475_.jpg"
+        },
+        {
+            "Title": "A Good Neighborhood",
+            "Author": "Therese Anne Fowler",
+            "Genre": "Contemporary",
+            "Description": "Good fences, it's said, make good neighbors. But in the idyllic town of Oak Knoll, North Carolina, fences can't stop star-crossed teenage love—or the twisted knots of race, class, and status in the 21st century. Powerful and provocative, this cautionary tale from the front lines of middle America poses a surprisingly complicated question: What does it mean to be a good neighbor?",
+            "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1555810442l/44084930.jpg"
+        },
+        {
+            "Title": "The Mirror & the Light",
+            "Author": "Hilary Mantel",
+            "Genre": "Thriller",
+            "Description": "In the concluding chapter of the Thomas Cromwell Trilogy, author and Booker Prize winner Hilary Mantel returns to 16th-century England and the tangle of allegiances around infamous monarch Henry VIII. Anne Boleyn is dead, and the talented Mr. Cromwell must once again rely on his wits and his intuition to survive. Nothing is for certain in this game, except one thing: Sooner or later, the king turns on everyone close to him.",
+            "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1578295385l/45992717.jpg"
+        },
+        {
+            "Title": "The Glass Hotel",
+            "Author": "Emily St. John Mandel",
+            "Genre": "Sociology",
+            "Description": "From the author of the fabulous Station Eleven, a creative riff on a postapocalypse story, The Glass Hotel swerves between three locations—downtown Manhattan, the wilderness of Vancouver, and a massive container ship off the coast of Mauritania. A woman disappears, money changes hands, and ghosts rise up from the past and points beyond. Emily St. John Mandel could write a technical handbook on flip phones and some of us would read it.",
+            "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1564199892l/45754981.jpg"
+        },
+        {
+            "Title": "All Adults Here",
+            "Author": "Emma Straub",
+            "Genre": "Adult Fiction",
+            "Description": "A story about the things that follow us into adulthood, like it or not, All Adults Here tracks the fortunes of three grown children and the mom who raised them. Overachievers and underachievers both have their burdens to bear. Now a third generation of children has arrived to perpetuate the family cycles—or not. From the author of The Vacationers.",
+            "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1589295428l/51907346._SY475_.jpg"
+        },
+        {
+            "Title": "The Jane Austen Society",
+            "Author": "Natalie Jenner",
+            "Genre": "Historical Fiction",
+            "Description": "In the drowsy village of Chawton, just after World War II, an odd collection of people (doctor, widow, laborer, movie star) come together to mark the sesquicentennial of Jane Austen's death. United only in their love for this particular strain of English literature, the disparate group strives to preserve the legacy of Jane Austen. Noble work, that. Recommended for fans of The Chilbury Ladies' Choir.",
+            "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1568730506l/43557477.jpg"
+        }
+
+    ]
+}
